@@ -1,0 +1,40 @@
+.nav .navbar{
+  li a{
+    font-family: 'Asap', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+
+  }
+  li:hover{
+  border-bottom:solid 2px #4a5768;
+  transition: 0.8s;
+  }
+}
+.row{
+  background-color: #e1e1e1;
+}
+.container .experience{
+  font-family: 'Asap', sans-serif;
+  font-weight: 500;
+  width: 100%;
+  .col-md-6{
+    background-color: #e1e1e1;
+  }
+  img{
+    width: 100%;
+  }
+  h1{
+padding-top: 155px;
+    vertical-align: center;
+    font-size: 90px;
+  }
+  h2{
+    font-size: 22px;
+  }
+  a:first-child{
+    background-color: #ffffff;
+  }
+  a:nth-child(2){
+    background-color: #e1e1e1;
+  }
+}
