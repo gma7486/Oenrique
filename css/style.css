@@ -23,9 +23,21 @@
     font-size: 90px; }
   .container .experience h2 {
     font-size: 22px; }
-  .container .experience a:first-child {
+  .container .experience a {
+    padding: 20px 33px 20px 33px;
+    color: #4d4d4d; }
+    .container .experience a:first-child {
+      background-color: #ffffff;
+      padding: 20px 33px 20px 33px;
+      text-decoration: none; }
+    .container .experience a:nth-child(2) {
+      background-color: #e1e1e1;
+      padding: 20px 33px 20px 33px;
+      text-decoration: none; }
+
+.container .about {
+  background-color: #ffffff; }
+  .container .about .col-md-6 {
     background-color: #ffffff; }
-  .container .experience a:nth-child(2) {
-    background-color: #e1e1e1; }
 
 /*# sourceMappingURL=style.css.map */
